@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.2.0
-Release:    %mkrel 1
+Release:    2
 Summary:    Simple authorization solution for Rails
 Group:      Development/Ruby
 License:    MIT
