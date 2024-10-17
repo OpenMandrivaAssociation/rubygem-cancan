@@ -6,7 +6,7 @@ Release:    2
 Summary:    Simple authorization solution for Rails
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/ryanb/cancan
+URL:        https://github.com/ryanb/cancan
 Source0:    http://rubygems.org/downloads/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
